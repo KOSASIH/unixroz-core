@@ -41,6 +41,6 @@ Please adhere to the Code of Conduct when participating in this project.
 If you encounter any issues or have suggestions, please open an issue on the issue tracker.
 
 # Security Vulnerabilities
-If you discover a security vulnerability, please report it to security@unixroz.com.
+If you discover a security vulnerability, please report it to security@unixroz.org.
 
 Thank you for contributing to Unixroz Core!
