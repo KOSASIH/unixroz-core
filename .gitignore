@@ -1,2 +1,36 @@
-# Google App Engine generated folder
-appengine-generated/
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Build files
+build/
+dist/
+
+# Test files
+coverage/
+
+# Config files
+config.json
+config.js
+
+# Keys and certificates
+*.pem
+*.key
+*.crt
+*.csr
+
+# Other files
+*.tmp
+*.old
+*.orig
