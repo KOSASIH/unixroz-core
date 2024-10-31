@@ -1,0 +1,37 @@
+/* src/user_interface/web_app/styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+#app {
+    max-width: 600px;
+    margin: 20px auto;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.message {
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px 0;
+}
+
+.message.sent {
+    background-color: #d1e7dd;
+    text-align: right;
+}
+
+.message.received {
+    background-color: #f8d7da;
+    text-align: left;
+}
